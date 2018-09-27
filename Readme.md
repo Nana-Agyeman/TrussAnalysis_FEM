@@ -1,8 +1,7 @@
 
 # 2D/3D Truss Analysis - Matlab Code
 
- - A Truss is essentially a triangulated system of straight   
-   interconnected structural elements.
+ - A Truss is essentially a triangulated system of straight interconnected structural elements.
 
  - The Purpose of this program is to  analyze all 2D/3D Trusses with all degrees of freedom using stiffness method (matrix analysis) under any kind of concentrated nodal  loadings (F_x,  F_y, F_z) and to submit values of supportive reactions, nodal displacements, axial forces and element stresses and strain as MATLAB Output.
 
